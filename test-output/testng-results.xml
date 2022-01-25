@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-25T13:23:34 IST" name="Default suite" finished-at="2022-01-25T13:23:57 IST" duration-ms="23949">
+    <groups>
+    </groups>
+    <test started-at="2022-01-25T13:23:34 IST" name="Default test" finished-at="2022-01-25T13:23:57 IST" duration-ms="23949">
+      <class name="src.com.orangehrmp.testsuite.LoginToOrangeHRMTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:src.com.orangehrmp.testsuite.LoginToOrangeHRMTest@2f8dad04]" started-at="2022-01-25T13:23:34 IST" name="start" finished-at="2022-01-25T13:23:38 IST" duration-ms="4740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="loginTest()[pri:1, instance:src.com.orangehrmp.testsuite.LoginToOrangeHRMTest@2f8dad04]" started-at="2022-01-25T13:23:38 IST" name="loginTest" finished-at="2022-01-25T13:23:43 IST" duration-ms="4289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="adminPageSnapshot()[pri:2, instance:src.com.orangehrmp.testsuite.LoginToOrangeHRMTest@2f8dad04]" started-at="2022-01-25T13:23:43 IST" name="adminPageSnapshot" finished-at="2022-01-25T13:23:47 IST" duration-ms="4847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminPageSnapshot -->
+        <test-method is-config="true" signature="end()[pri:0, instance:src.com.orangehrmp.testsuite.LoginToOrangeHRMTest@2f8dad04]" started-at="2022-01-25T13:23:47 IST" name="end" finished-at="2022-01-25T13:23:57 IST" duration-ms="10046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- src.com.orangehrmp.testsuite.LoginToOrangeHRMTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
